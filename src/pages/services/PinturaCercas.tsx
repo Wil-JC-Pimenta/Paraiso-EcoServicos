@@ -4,48 +4,52 @@ import ImageGallery from "@/components/ImageGallery";
 // Sample images for the gallery
 const galleryImages = [
   {
-    src: "/public/img/pintura-de-cercas/pintura-de-cerca-01.jpg",
+    src: "/public/img/pintura-de-cercas/pintura-de-cercas-01.jpg",
     alt: "Pintura de Cercas - Imagem 1"
   },
   {
-    src: "/public/img/pintura-de-cercas/pintura-de-cerca-02.jpg",
+    src: "/public/img/pintura-de-cercas/pintura-de-cercas-02.jpg",
     alt: "Pintura de Cercas - Imagem 2"
   },
   {
-    src: "/public/img/pintura-de-cercas/pintura-de-cerca-03.jpg",
+    src: "/public/img/pintura-de-cercas/pintura-de-cercas-03.jpg",
     alt: "Pintura de Cercas - Imagem 3"
   },
   {
-    src: "/public/img/pintura-de-cercas/pintura-de-cerca-04.jpg",
+    src: "/public/img/pintura-de-cercas/pintura-de-cercas-04.jpg",
     alt: "Pintura de Cercas - Imagem 4"
   },
   {
-    src: "/public/img/pintura-de-cercas/pintura-de-cerca-05.jpg",
+    src: "/public/img/pintura-de-cercas/pintura-de-cercas-05.jpg",
     alt: "Pintura de Cercas - Imagem 5"
   },
   {
-    src: "/public/img/pintura-de-cercas/pintura-de-cerca-06.jpg",
+    src: "/public/img/pintura-de-cercas/pintura-de-cercas-06.jpg",
     alt: "Pintura de Cercas - Imagem 6"
   },
   {
-    src: "/public/img/pintura-de-cercas/pintura-de-cerca-07.jpg",
+    src: "/public/img/pintura-de-cercas/pintura-de-cercas-07.jpg",
     alt: "Pintura de Cercas - Imagem 7"
   },
   {
-    src: "/public/img/pintura-de-cercas/pintura-de-cerca-08.jpg",
+    src: "/public/img/pintura-de-cercas/pintura-de-cercas-08.jpg",
     alt: "Pintura de Cercas - Imagem 8"
   },
   {
-    src: "/public/img/pintura-de-cercas/pintura-de-cerca-09.jpg",
+    src: "/public/img/pintura-de-cercas/pintura-de-cercas-09.jpg",
     alt: "Pintura de Cercas - Imagem 9"
   },
   {
-    src: "/public/img/pintura-de-cercas/pintura-de-cerca-10.jpg",
+    src: "/public/img/pintura-de-cercas/pintura-de-cercas-10.jpg",
     alt: "Pintura de Cercas - Imagem 10"
   },
   {
-    src: "/public/img/pintura-de-cercas/pintura-de-cerca-11.jpg",
+    src: "/public/img/pintura-de-cercas/pintura-de-cercas-11.jpg",
     alt: "Pintura de Cercas - Imagem 11"
+  },
+  {
+    src: "/public/img/pintura-de-cercas/pintura-de-cercas-12.jpg",
+    alt: "Pintura de Cercas - Imagem 12"
   }
 ];
 

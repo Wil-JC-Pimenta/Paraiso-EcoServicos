@@ -4,51 +4,51 @@ import ImageGallery from "@/components/ImageGallery";
 // Sample images for the gallery
 const galleryImages = [
   {
-    src: "/public/img/plantio-de-mudas/plantio-de-muda-01.jpg",
+    src: "/public/img/plantio-de-mudas/plantio-de-mudas-01.jpg",
     alt: "Plantio de Mudas - Imagem 1"
   },
   {
-    src: "/public/img/plantio-de-mudas/plantio-de-muda-02.jpg",
+    src: "/public/img/plantio-de-mudas/plantio-de-mudas-02.jpg",
     alt: "Plantio de Mudas - Imagem 2"
   },
   {
-    src: "/public/img/plantio-de-mudas/plantio-de-muda-03.jpg",
+    src: "/public/img/plantio-de-mudas/plantio-de-mudas-03.jpg",
     alt: "Plantio de Mudas - Imagem 3"
   },
   {
-    src: "/public/img/plantio-de-mudas/plantio-de-muda-04.jpg",
+    src: "/public/img/plantio-de-mudas/plantio-de-mudas-04.jpg",
     alt: "Plantio de Mudas - Imagem 4"
   },
   {
-    src: "/public/img/plantio-de-mudas/plantio-de-muda-05.jpg",
+    src: "/public/img/plantio-de-mudas/plantio-de-mudas-05.jpg",
     alt: "Plantio de Mudas - Imagem 5"
   },
   {
-    src: "/public/img/plantio-de-mudas/plantio-de-muda-06.jpg",
+    src: "/public/img/plantio-de-mudas/plantio-de-mudas-06.jpg",
     alt: "Plantio de Mudas - Imagem 6"
   },
   {
-    src: "/public/img/plantio-de-mudas/plantio-de-muda-07.jpg",
+    src: "/public/img/plantio-de-mudas/plantio-de-mudas-07.jpg",
     alt: "Plantio de Mudas - Imagem 7"
   },
   {
-    src: "/public/img/plantio-de-mudas/plantio-de-muda-08.jpg",
+    src: "/public/img/plantio-de-mudas/plantio-de-mudas-08.jpg",
     alt: "Plantio de Mudas - Imagem 8"
   },
   {
-    src: "/public/img/plantio-de-mudas/plantio-de-muda-09.jpg",
+    src: "/public/img/plantio-de-mudas/plantio-de-mudas-09.jpg",
     alt: "Plantio de Mudas - Imagem 9"
   },
   {
-    src: "/public/img/plantio-de-mudas/plantio-de-muda-10.jpg",
+    src: "/public/img/plantio-de-mudas/plantio-de-mudas-10.jpg",
     alt: "Plantio de Mudas - Imagem 10"
   },
   {
-    src: "/public/img/plantio-de-mudas/plantio-de-muda-11.jpg",
+    src: "/public/img/plantio-de-mudas/plantio-de-mudas-11.jpg",
     alt: "Plantio de Mudas - Imagem 11"
   },
   {
-    src: "/public/img/plantio-de-mudas/plantio-de-muda-12.jpg",
+    src: "/public/img/plantio-de-mudas/plantio-de-mudas-12.jpg",
     alt: "Plantio de Mudas - Imagem 12"
   }
 ];
