@@ -27,7 +27,7 @@ const MainContent = () => {
         <div className="mt-8 bg-gray-200 rounded-lg p-4">
           <div className="w-full h-full flex items-center justify-center text-gray-500">
             <img
-              src="/public/img/homepage/home-image.png"
+              src="/img/homepage/home-image.png"
               alt="Paraíso EcoServiços - Logo"
               className="mx-auto w-full sm:w-2/3 md:w-1/2 lg:w-1/3 xl:w-auto h-auto mb-4"
             />
