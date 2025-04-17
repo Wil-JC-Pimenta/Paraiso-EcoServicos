@@ -4,51 +4,51 @@ import ImageGallery from "@/components/ImageGallery";
 // Sample images for the gallery
 const galleryImages = [
   {
-    src: "/public/img/reparos-hidraulicos/reparos-hidraulicos-01.jpg",
+    src: "/img/reparos-hidraulicos/reparos-hidraulicos-01.jpg",
     alt: "Reparos Hidráulicos - Imagem 1"
   },
   {
-    src: "/public/img/reparos-hidraulicos/reparos-hidraulicos-02.jpg",
+    src: "/img/reparos-hidraulicos/reparos-hidraulicos-02.jpg",
     alt: "Reparos Hidráulicos - Imagem 2"
   },
   {
-    src: "/public/img/reparos-hidraulicos/reparos-hidraulicos-03.jpg",
+    src: "/img/reparos-hidraulicos/reparos-hidraulicos-03.jpg",
     alt: "Reparos Hidráulicos - Imagem 3"
   },
   {
-    src: "/public/img/reparos-hidraulicos/reparos-hidraulicos-04.jpg",
+    src: "/img/reparos-hidraulicos/reparos-hidraulicos-04.jpg",
     alt: "Reparos Hidráulicos - Imagem 4"
   },
   {
-    src: "/public/img/reparos-hidraulicos/reparos-hidraulicos-05.jpg",
+    src: "/img/reparos-hidraulicos/reparos-hidraulicos-05.jpg",
     alt: "Reparos Hidráulicos - Imagem 5"
   },
   {
-    src: "/public/img/reparos-hidraulicos/reparos-hidraulicos-06.jpg",
+    src: "/img/reparos-hidraulicos/reparos-hidraulicos-06.jpg",
     alt: "Reparos Hidráulicos - Imagem 6"
   },
   {
-    src: "/public/img/reparos-hidraulicos/reparos-hidraulicos-07.jpg",
+    src: "/img/reparos-hidraulicos/reparos-hidraulicos-07.jpg",
     alt: "Reparos Hidráulicos - Imagem 7"
   },
   {
-    src: "/public/img/reparos-hidraulicos/reparos-hidraulicos-08.jpg",
+    src: "/img/reparos-hidraulicos/reparos-hidraulicos-08.jpg",
     alt: "Reparos Hidráulicos - Imagem 8"
   },
   {
-    src: "/public/img/reparos-hidraulicos/reparos-hidraulicos-09.jpg",
+    src: "/img/reparos-hidraulicos/reparos-hidraulicos-09.jpg",
     alt: "Reparos Hidráulicos - Imagem 9"
   },
   {
-    src: "/public/img/reparos-hidraulicos/reparos-hidraulicos-10.jpg",
+    src: "/img/reparos-hidraulicos/reparos-hidraulicos-10.jpg",
     alt: "Reparos Hidráulicos - Imagem 10"
   },
   {
-    src: "/public/img/reparos-hidraulicos/reparos-hidraulicos-11.jpg",
+    src: "/img/reparos-hidraulicos/reparos-hidraulicos-11.jpg",
     alt: "Reparos Hidráulicos - Imagem 11"
   },
   {
-    src: "/public/img/reparos-hidraulicos/reparos-hidraulicos-12.jpg",
+    src: "/img/reparos-hidraulicos/reparos-hidraulicos-12.jpg",
     alt: "Reparos Hidráulicos - Imagem 12"
   }
 ];

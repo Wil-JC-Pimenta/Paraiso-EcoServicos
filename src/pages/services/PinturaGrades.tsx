@@ -4,51 +4,51 @@ import ImageGallery from "@/components/ImageGallery";
 // Sample images for the gallery
 const galleryImages = [
   {
-    src: "/public/img/pintura-de-grades-e-portoes/pintura-de-grades-e-portoes-01.jpg",
+    src: "/img/pintura-de-grades-e-portoes/pintura-de-grades-e-portoes-01.jpg",
     alt: "Pintura de Grades - Imagem 1"
   },
   {
-    src: "/public/img/pintura-de-grades-e-portoes/pintura-de-grades-e-portoes-02.jpg",
+    src: "/img/pintura-de-grades-e-portoes/pintura-de-grades-e-portoes-02.jpg",
     alt: "Pintura de Grades - Imagem 2"
   },
   {
-    src: "/public/img/pintura-de-grades-e-portoes/pintura-de-grades-e-portoes-03.jpg",
+    src: "/img/pintura-de-grades-e-portoes/pintura-de-grades-e-portoes-03.jpg",
     alt: "Pintura de Grades - Imagem 3"
   },
   {
-    src: "/public/img/pintura-de-grades-e-portoes/pintura-de-grades-e-portoes-04.jpg",
+    src: "/img/pintura-de-grades-e-portoes/pintura-de-grades-e-portoes-04.jpg",
     alt: "Pintura de Grades - Imagem 4"
   },
   {
-    src: "/public/img/pintura-de-grades-e-portoes/pintura-de-grades-e-portoes-05.jpg",
+    src: "/img/pintura-de-grades-e-portoes/pintura-de-grades-e-portoes-05.jpg",
     alt: "Pintura de Grades - Imagem 5"
   },
   {
-    src: "/public/img/pintura-de-grades-e-portoes/pintura-de-grades-e-portoes-06.jpg",
+    src: "/img/pintura-de-grades-e-portoes/pintura-de-grades-e-portoes-06.jpg",
     alt: "Pintura de Grades - Imagem 6"
   },
   {
-    src: "/public/img/pintura-de-grades-e-portoes/pintura-de-grades-e-portoes-07.jpg",
+    src: "/img/pintura-de-grades-e-portoes/pintura-de-grades-e-portoes-07.jpg",
     alt: "Pintura de Grades - Imagem 7"
   },
   {
-    src: "/public/img/pintura-de-grades-e-portoes/pintura-de-grades-e-portoes-08.jpg",
+    src: "/img/pintura-de-grades-e-portoes/pintura-de-grades-e-portoes-08.jpg",
     alt: "Pintura de Grades - Imagem 8"
   },
   {
-    src: "/public/img/pintura-de-grades-e-portoes/pintura-de-grades-e-portoes-09.jpg",
+    src: "/img/pintura-de-grades-e-portoes/pintura-de-grades-e-portoes-09.jpg",
     alt: "Pintura de Grades - Imagem 9"
   },
   {
-    src: "/public/img/pintura-de-grades-e-portoes/pintura-de-grades-e-portoes-10.jpg",
+    src: "/img/pintura-de-grades-e-portoes/pintura-de-grades-e-portoes-10.jpg",
     alt: "Pintura de Grades - Imagem 10"
   },
   {
-    src: "/public/img/pintura-de-grades-e-portoes/pintura-de-grades-e-portoes-11.jpg",
+    src: "/img/pintura-de-grades-e-portoes/pintura-de-grades-e-portoes-11.jpg",
     alt: "Pintura de Grades - Imagem 11"
   },
   {
-    src: "/public/img/pintura-de-grades-e-portoes/pintura-de-grades-e-portoes-12.jpg",
+    src: "/img/pintura-de-grades-e-portoes/pintura-de-grades-e-portoes-12.jpg",
     alt: "Pintura de Grades - Imagem 12"
   }
 ];

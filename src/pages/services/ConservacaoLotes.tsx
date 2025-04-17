@@ -4,51 +4,51 @@ import ImageGallery from "@/components/ImageGallery";
 // Imagens locais da galeria (01 a 12)
 const galleryImages = [
   {
-    src: "/public/img/conservacao-de-lotes/conservacao-de-lotes-01.jpg",
+    src: "/img/conservacao-de-lotes/conservacao-de-lotes-01.jpg",
     alt: "Conservação de Lotes - Imagem 1"
   },
   {
-    src: "/public/img/conservacao-de-lotes/conservacao-de-lotes-02.jpg",
+    src: "/img/conservacao-de-lotes/conservacao-de-lotes-02.jpg",
     alt: "Conservação de Lotes - Imagem 2"
   },
   {
-    src: "/public/img/conservacao-de-lotes/conservacao-de-lotes-03.jpg",
+    src: "/img/conservacao-de-lotes/conservacao-de-lotes-03.jpg",
     alt: "Conservação de Lotes - Imagem 3"
   },
   {
-    src: "/public/img/conservacao-de-lotes/conservacao-de-lotes-04.jpg",
+    src: "/img/conservacao-de-lotes/conservacao-de-lotes-04.jpg",
     alt: "Conservação de Lotes - Imagem 4"
   },
   {
-    src: "/public/img/conservacao-de-lotes/conservacao-de-lotes-05.jpg",
+    src: "/img/conservacao-de-lotes/conservacao-de-lotes-05.jpg",
     alt: "Conservação de Lotes - Imagem 5"
   },
   {
-    src: "/public/img/conservacao-de-lotes/conservacao-de-lotes-06.jpg",
+    src: "/img/conservacao-de-lotes/conservacao-de-lotes-06.jpg",
     alt: "Conservação de Lotes - Imagem 6"
   },
   {
-    src: "/public/img/conservacao-de-lotes/conservacao-de-lotes-07.jpg",
+    src: "/img/conservacao-de-lotes/conservacao-de-lotes-07.jpg",
     alt: "Conservação de Lotes - Imagem 7"
   },
   {
-    src: "/public/img/conservacao-de-lotes/conservacao-de-lotes-08.jpg",
+    src: "/img/conservacao-de-lotes/conservacao-de-lotes-08.jpg",
     alt: "Conservação de Lotes - Imagem 8"
   },
   {
-    src: "/public/img/conservacao-de-lotes/conservacao-de-lotes-09.jpg",
+    src: "/img/conservacao-de-lotes/conservacao-de-lotes-09.jpg",
     alt: "Conservação de Lotes - Imagem 9"
   },
   {
-    src: "/public/img/conservacao-de-lotes/conservacao-de-lotes-10.jpg",
+    src: "/img/conservacao-de-lotes/conservacao-de-lotes-10.jpg",
     alt: "Conservação de Lotes - Imagem 10"
   },
   {
-    src: "/public/img/conservacao-de-lotes/conservacao-de-lotes-11.jpg",
+    src: "/img/conservacao-de-lotes/conservacao-de-lotes-11.jpg",
     alt: "Conservação de Lotes - Imagem 11"
   },
   {
-    src: "/public/img/conservacao-de-lotes/conservacao-de-lotes-12.jpg",
+    src: "/img/conservacao-de-lotes/conservacao-de-lotes-12.jpg",
     alt: "Conservação de Lotes - Imagem 12"
   }
 ];

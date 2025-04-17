@@ -4,51 +4,51 @@ import ImageGallery from "@/components/ImageGallery";
 // Imagens locais da galeria (01 a 12)
 const galleryImages = [
   {
-    src: "/public/img/limpeza-de-chacaras/limpeza-de-chacara-01.jpg",
+    src: "/img/limpeza-de-chacaras/limpeza-de-chacara-01.jpg",
     alt: "Limpeza de Chácaras - Imagem 1"
   },
   {
-    src: "/public/img/limpeza-de-chacaras/limpeza-de-chacara-02.jpg",
+    src: "/img/limpeza-de-chacaras/limpeza-de-chacara-02.jpg",
     alt: "Limpeza de Chácaras - Imagem 2"
   },
   {
-    src: "/public/img/limpeza-de-chacaras/limpeza-de-chacara-03.jpg",
+    src: "/img/limpeza-de-chacaras/limpeza-de-chacara-03.jpg",
     alt: "Limpeza de Chácaras - Imagem 3"
   },
   {
-    src: "/public/img/limpeza-de-chacaras/limpeza-de-chacara-04.jpg",
+    src: "/img/limpeza-de-chacaras/limpeza-de-chacara-04.jpg",
     alt: "Limpeza de Chácaras - Imagem 4"
   },
   {
-    src: "/public/img/limpeza-de-chacaras/limpeza-de-chacara-05.jpg",
+    src: "/img/limpeza-de-chacaras/limpeza-de-chacara-05.jpg",
     alt: "Limpeza de Chácaras - Imagem 5"
   },
   {
-    src: "/public/img/limpeza-de-chacaras/limpeza-de-chacara-06.jpg",
+    src: "/img/limpeza-de-chacaras/limpeza-de-chacara-06.jpg",
     alt: "Limpeza de Chácaras - Imagem 6"
   },
   {
-    src: "/public/img/limpeza-de-chacaras/limpeza-de-chacara-07.jpg",
+    src: "/img/limpeza-de-chacaras/limpeza-de-chacara-07.jpg",
     alt: "Limpeza de Chácaras - Imagem 7"
   },
   {
-    src: "/public/img/limpeza-de-chacaras/limpeza-de-chacara-08.jpg",
+    src: "/img/limpeza-de-chacaras/limpeza-de-chacara-08.jpg",
     alt: "Limpeza de Chácaras - Imagem 8"
   },
   {
-    src: "/public/img/limpeza-de-chacaras/limpeza-de-chacara-09.jpg",
+    src: "/img/limpeza-de-chacaras/limpeza-de-chacara-09.jpg",
     alt: "Limpeza de Chácaras - Imagem 9"
   },
   {
-    src: "/public/img/limpeza-de-chacaras/limpeza-de-chacara-10.jpg",
+    src: "/img/limpeza-de-chacaras/limpeza-de-chacara-10.jpg",
     alt: "Limpeza de Chácaras - Imagem 10"
   },
   {
-    src: "/public/img/limpeza-de-chacaras/limpeza-de-chacara-11.jpg",
+    src: "/img/limpeza-de-chacaras/limpeza-de-chacara-11.jpg",
     alt: "Limpeza de Chácaras - Imagem 11"
   },
   {
-    src: "/public/img/limpeza-de-chacaras/limpeza-de-chacara-12.jpg",
+    src: "/img/limpeza-de-chacaras/limpeza-de-chacara-12.jpg",
     alt: "Limpeza de Chácaras - Imagem 12"
   }
 ];

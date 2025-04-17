@@ -4,51 +4,51 @@ import ImageGallery from "@/components/ImageGallery";
 // Sample images for the gallery
 const galleryImages = [
   {
-    src: "/public/img/reparos-eletricos/reparos-eletricos-01.jpg",
+    src: "/img/reparos-eletricos/reparos-eletricos-01.jpg",
     alt: "Reparos Elétricos - Imagem 1"
   },
   {
-    src: "/public/img/reparos-eletricos/reparos-eletricos-02.jpg",
+    src: "/img/reparos-eletricos/reparos-eletricos-02.jpg",
     alt: "Reparos Elétricos - Imagem 2"
   },
   {
-    src: "/public/img/reparos-eletricos/reparos-eletricos-03.jpg",
+    src: "/img/reparos-eletricos/reparos-eletricos-03.jpg",
     alt: "Reparos Elétricos - Imagem 3"
   },
   {
-    src: "/public/img/reparos-eletricos/reparos-eletricos-04.jpg",
+    src: "/img/reparos-eletricos/reparos-eletricos-04.jpg",
     alt: "Reparos Elétricos - Imagem 4"
   },
   {
-    src: "/public/img/reparos-eletricos/reparos-eletricos-05.jpg",
+    src: "/img/reparos-eletricos/reparos-eletricos-05.jpg",
     alt: "Reparos Elétricos - Imagem 5"
   },
   {
-    src: "/public/img/reparos-eletricos/reparos-eletricos-06.jpg",
+    src: "/img/reparos-eletricos/reparos-eletricos-06.jpg",
     alt: "Reparos Elétricos - Imagem 6"
   },
   {
-    src: "/public/img/reparos-eletricos/reparos-eletricos-07.jpg",
+    src: "/img/reparos-eletricos/reparos-eletricos-07.jpg",
     alt: "Reparos Elétricos - Imagem 7"
   },
   {
-    src: "/public/img/reparos-eletricos/reparos-eletricos-08.jpg",
+    src: "/img/reparos-eletricos/reparos-eletricos-08.jpg",
     alt: "Reparos Elétricos - Imagem 8"
   },
   {
-    src: "/public/img/reparos-eletricos/reparos-eletricos-09.jpg",
+    src: "/img/reparos-eletricos/reparos-eletricos-09.jpg",
     alt: "Reparos Elétricos - Imagem 9"
   },
   {
-    src: "/public/img/reparos-eletricos/reparos-eletricos-10.jpg",
+    src: "/img/reparos-eletricos/reparos-eletricos-10.jpg",
     alt: "Reparos Elétricos - Imagem 10"
   },
   {
-    src: "/public/img/reparos-eletricos/reparos-eletricos-11.jpg",
+    src: "/img/reparos-eletricos/reparos-eletricos-11.jpg",
     alt: "Reparos Elétricos - Imagem 11"
   },
   {
-    src: "/public/img/reparos-eletricos/reparos-eletricos-12.jpg",
+    src: "/img/reparos-eletricos/reparos-eletricos-12.jpg",
     alt: "Reparos Elétricos - Imagem 12"
   }
 ];

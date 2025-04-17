@@ -4,51 +4,51 @@ import ImageGallery from "@/components/ImageGallery";
 // Imagens locais da galeria (01 a 12)
 const galleryImages = [
   {
-    src: "/public/img/manutencao-de-jardins/manutencao-de-jardins-01.jpg",
+    src: "/img/manutencao-de-jardins/manutencao-de-jardins-01.jpg",
     alt: "Manutenção de Jardins - Imagem 1"
   },
   {
-    src: "/public/img/manutencao-de-jardins/manutencao-de-jardins-02.jpg",
+    src: "/img/manutencao-de-jardins/manutencao-de-jardins-02.jpg",
     alt: "Manutenção de Jardins - Imagem 2"
   },
   {
-    src: "/public/img/manutencao-de-jardins/manutencao-de-jardins-03.jpg",
+    src: "/img/manutencao-de-jardins/manutencao-de-jardins-03.jpg",
     alt: "Manutenção de Jardins - Imagem 3"
   },
   {
-    src: "/public/img/manutencao-de-jardins/manutencao-de-jardins-04.jpg",
+    src: "/img/manutencao-de-jardins/manutencao-de-jardins-04.jpg",
     alt: "Manutenção de Jardins - Imagem 4"
   },
   {
-    src: "/public/img/manutencao-de-jardins/manutencao-de-jardins-05.jpg",
+    src: "/img/manutencao-de-jardins/manutencao-de-jardins-05.jpg",
     alt: "Manutenção de Jardins - Imagem 5"
   },
   {
-    src: "/public/img/manutencao-de-jardins/manutencao-de-jardins-06.jpg",
+    src: "/img/manutencao-de-jardins/manutencao-de-jardins-06.jpg",
     alt: "Manutenção de Jardins - Imagem 6"
   },
   {
-    src: "/public/img/manutencao-de-jardins/manutencao-de-jardins-07.jpg",
+    src: "/img/manutencao-de-jardins/manutencao-de-jardins-07.jpg",
     alt: "Manutenção de Jardins - Imagem 7"
   },
   {
-    src: "/public/img/manutencao-de-jardins/manutencao-de-jardins-08.jpg",
+    src: "/img/manutencao-de-jardins/manutencao-de-jardins-08.jpg",
     alt: "Manutenção de Jardins - Imagem 8"
   },
   {
-    src: "/public/img/manutencao-de-jardins/manutencao-de-jardins-09.jpg",
+    src: "/img/manutencao-de-jardins/manutencao-de-jardins-09.jpg",
     alt: "Manutenção de Jardins - Imagem 9"
   },
   {
-    src: "/public/img/manutencao-de-jardins/manutencao-de-jardins-10.jpg",
+    src: "/img/manutencao-de-jardins/manutencao-de-jardins-10.jpg",
     alt: "Manutenção de Jardins - Imagem 10"
   },
   {
-    src: "/public/img/manutencao-de-jardins/manutencao-de-jardins-11.jpg",
+    src: "/img/manutencao-de-jardins/manutencao-de-jardins-11.jpg",
     alt: "Manutenção de Jardins - Imagem 11"
   },
   {
-    src: "/public/img/manutencao-de-jardins/manutencao-de-jardins-12.jpg",
+    src: "/img/manutencao-de-jardins/manutencao-de-jardins-12.jpg",
     alt: "Manutenção de Jardins - Imagem 12"
   }
 ];

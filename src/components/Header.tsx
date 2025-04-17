@@ -12,7 +12,7 @@ const Header = ({ toggleSidebar }: { toggleSidebar: () => void }) => {
           >
             <Menu size={24} />
           </button>
-          <div className="text-2xl font-bold">
+          <div className="text-center text-2xl font-bold">
             Paraíso EcoServiços
             <span className="block text-sm font-normal">
               Residencial & Rural

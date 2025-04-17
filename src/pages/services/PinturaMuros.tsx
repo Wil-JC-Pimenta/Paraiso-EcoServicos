@@ -4,51 +4,51 @@ import ImageGallery from "@/components/ImageGallery";
 // Sample images for the gallery
 const galleryImages = [
   {
-    src: "/public/img/pintura-de-muros-e-fachadas/pintura-de-muros-e-fachadas-01.jpg",
+    src: "/img/pintura-de-muros-e-fachadas/pintura-de-muros-e-fachadas-01.jpg",
     alt: "Pintura de Muros - Imagem 1"
   },
   {
-    src: "/public/img/pintura-de-muros-e-fachadas/pintura-de-muros-e-fachadas-02.jpg",
+    src: "/img/pintura-de-muros-e-fachadas/pintura-de-muros-e-fachadas-02.jpg",
     alt: "Pintura de Muros - Imagem 2"
   },
   {
-    src: "/public/img/pintura-de-muros-e-fachadas/pintura-de-muros-e-fachadas-03.jpg",
+    src: "/img/pintura-de-muros-e-fachadas/pintura-de-muros-e-fachadas-03.jpg",
     alt: "Pintura de Muros - Imagem 3"
   },
   {
-    src: "/public/img/pintura-de-muros-e-fachadas/pintura-de-muros-e-fachadas-04.jpg",
+    src: "/img/pintura-de-muros-e-fachadas/pintura-de-muros-e-fachadas-04.jpg",
     alt: "Pintura de Muros - Imagem 4"
   },
   {
-    src: "/public/img/pintura-de-muros-e-fachadas/pintura-de-muros-e-fachadas-05.jpg",
+    src: "/img/pintura-de-muros-e-fachadas/pintura-de-muros-e-fachadas-05.jpg",
     alt: "Pintura de Muros - Imagem 5"
   },
   {
-    src: "/public/img/pintura-de-muros-e-fachadas/pintura-de-muros-e-fachadas-06.jpg",
+    src: "/img/pintura-de-muros-e-fachadas/pintura-de-muros-e-fachadas-06.jpg",
     alt: "Pintura de Muros - Imagem 6"
   },
   {
-    src: "/public/img/pintura-de-muros-e-fachadas/pintura-de-muros-e-fachadas-07.jpg",
+    src: "/pintura-de-muros-e-fachadas/pintura-de-muros-e-fachadas-07.jpg",
     alt: "Pintura de Muros - Imagem 7"
   },
   {
-    src: "/public/img/pintura-de-muros-e-fachadas/pintura-de-muros-e-fachadas-08.jpg",
+    src: "/img/pintura-de-muros-e-fachadas/pintura-de-muros-e-fachadas-08.jpg",
     alt: "Pintura de Muros - Imagem 8"
   },
   {
-    src: "/public/img/pintura-de-muros-e-fachadas/pintura-de-muros-e-fachadas-09.jpg",
+    src: "/img/pintura-de-muros-e-fachadas/pintura-de-muros-e-fachadas-09.jpg",
     alt: "Pintura de Muros - Imagem 9"
   },
   {
-    src: "/public/img/pintura-de-muros-e-fachadas/pintura-de-muros-e-fachadas-10.jpg",
+    src: "/img/pintura-de-muros-e-fachadas/pintura-de-muros-e-fachadas-10.jpg",
     alt: "Pintura de Muros - Imagem 10"
   },
   {
-    src: "/public/img/pintura-de-muros-e-fachadas/pintura-de-muros-e-fachadas-11.jpg",
+    src: "/img/pintura-de-muros-e-fachadas/pintura-de-muros-e-fachadas-11.jpg",
     alt: "Pintura de Muros - Imagem 11"
   },
   {
-    src: "/public/img/pintura-de-muros-e-fachadas/pintura-de-muros-e-fachadas-12.jpg",
+    src: "/img/pintura-de-muros-e-fachadas/pintura-de-muros-e-fachadas-12.jpg",
     alt: "Pintura de Muros - Imagem 12"
   }
 ];
