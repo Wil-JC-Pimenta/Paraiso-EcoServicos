@@ -25,7 +25,6 @@ Este repositório contém o front-end do site institucional da **Paraíso EcoSer
 - **React + TypeScript** – Base sólida para componentes escaláveis.
 - **shadcn/ui** – Biblioteca de componentes estilizados.
 - **Tailwind CSS** – Framework de utilitário para estilização ágil.
-- **Figma** (protótipo) – Wireframes e mockups iniciais.
 
 ## 🏁 Como Executar Localmente
 
